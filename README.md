@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rinx11</h1>
 <h3 align="center">Aspiring Business analyst</h3>
 
-- 🌱 I’m currently learning **Scikit-learn**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rinx11](https://github.com/Rinx11)
 
